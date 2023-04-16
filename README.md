@@ -1,5 +1,5 @@
 <a href="https://omnifood-practice-website.netlify.app/">
-  <img alt="Omnifood - Landing page" src="/public/screenshot.png">
+  <img alt="Omnifood - Landing page" src="/img/screenshot.png">
     <h1 align="center">Omnifood</h1>
 </a>
 
